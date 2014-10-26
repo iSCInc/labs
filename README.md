@@ -1,4 +1,8 @@
 labs
 ====
 
-The laboratory of iSC Inc..
+The official **laboratory** of *iSC Inc.*.
+
+
+----
+(c) *2010-present* **iSC Inc**
